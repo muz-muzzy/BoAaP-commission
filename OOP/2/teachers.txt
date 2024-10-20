@@ -1,0 +1,10 @@
+Smith,John,Michael,M,1970-05-14,Professor,Mathematics;Physics;Computer Science
+Johnson,Emily,Grace,F,1982-11-22,Lecturer,Biology;Chemistry
+Williams,James,Edward,M,1978-03-09,Associate Professor,History;Sociology
+Brown,Sarah,Ann,F,1990-07-30,Assistant Professor,Economics;Political Science
+Davis,Robert,Paul,M,1985-02-18,Senior Lecturer,Philosophy;Ethics;Logic
+Miller,Laura,Jane,F,1993-12-12,Lecturer,Psychology;Statistics
+Wilson,David,George,M,1965-06-27,Professor,Physics;Astronomy
+Taylor,Linda,Maria,F,1988-09-19,Senior Lecturer,Literature;Creative Writing
+Moore,Christopher,James,M,1972-10-05,Associate Professor,Computer Science;AI;Machine Learning
+Clark,Angela,Victoria,F,1995-04-08,Assistant Professor,Art;Design
